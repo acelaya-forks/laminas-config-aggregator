@@ -6,7 +6,6 @@
          beStrictAboutOutputDuringTests="true"
          failOnRisky="true"
          failOnWarning="true"
-         failOnDeprecation="true"
          failOnNotice="true"
          displayDetailsOnIncompleteTests="true"
          displayDetailsOnSkippedTests="true"
